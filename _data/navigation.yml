@@ -1,29 +1,29 @@
 # main links
 main:
   - title: "关于我"
-    url: "/zh/#关于我"
+    url: "/#关于我"
 
   - title: "新闻"
-    url: "/zh/#-新闻"
+    url: "/#-新闻"
 
   - title: "近期研究"
-    url: "/zh/#-近期研究"
+    url: "/#-近期研究"
 
   - title: "论文列表"
-    url: "/zh/#-论文列表"
+    url: "/#-论文列表"
 
   - title: "其他"
-    url: "/zh/#-其他"
+    url: "/#-其他"
 
   - title: "教育经历"
-    url: "/zh/#-教育经历"
+    url: "/#-教育经历"
 
   - title: "学习材料"
-    url: "/zh/#-学习材料"
+    url: "/#-学习材料"
 
   - title: "简历"
     url: "https://neardws-1257861591.cos.ap-shanghai.myqcloud.com/2022/09/20220914094713cv929.pdf"
 
 language:
   - title: "English"
-    url: "/"
+    url: "https://me.neardws.com/"
