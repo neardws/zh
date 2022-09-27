@@ -22,6 +22,7 @@
 - 会伴: 学术会议信息查询 [[Link]](https://www.myhuiban.com)
 - LetPub: SCI 期刊信息查询 [[Link]](http://www.letpub.com.cn/index.php?page=journalapp)
 - Academic Accelerator: 各种学术相关工具集合 [[Link]](https://academic-accelerator.com)
+- WikiCFP: 征稿信息的维基百科 [[Link]](http://www.wikicfp.com/cfp/)
 - Zotero: 个人文献管理工具 [[Link]](https://www.zotero.org)
 
 #### 代码教程
