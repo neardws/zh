@@ -18,5 +18,5 @@
 
 #### 中文论文
 
-- [基于势博弈的车载边缘计算信道分配方法](https://www.ejournal.org.cn/CN/10.12263/DZXB.20200994), **许新操**, 刘凯, 刘春晖, 蒋豪, 郭松涛, 吴巍炜, *电子学报*, 2021, 49(5), 851-860. [CCF A] [![](https://img.shields.io/github/stars/neardws/Incentive-based-Probability-Update-and-Strategy-Selection?style=social)](https://github.com/neardws/Incentive-based-Probability-Update-and-Strategy-Selection)
+- [基于势博弈的车载边缘计算信道分配方法](https://www.ejournal.org.cn/CN/10.12263/DZXB.20200994), **许新操**, 刘凯, 刘春晖, 蒋豪, 郭松涛, 吴巍炜, *电子学报*, 2021, 49(5), 851-860. [CCF A] [![](https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FNeardws%2Fneardws.github.io@google-scholar-stats%2Fgs_data.json&query=$['publications']['DK5avZUAAAAJ:fQNAKQ3IYiAC']['num_citations']&labelColor=f6f6f6&color=9cf&style=flat&label=citations)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DK5avZUAAAAJ&citation_for_view=DK5avZUAAAAJ:fQNAKQ3IYiAC) [![](https://img.shields.io/github/stars/neardws/Incentive-based-Probability-Update-and-Strategy-Selection?style=social)](https://github.com/neardws/Incentive-based-Probability-Update-and-Strategy-Selection)
 - 车载雾计算环境中基于势博弈的分布式信道分配, **许新操**, 周易, 刘凯, 向朝参, 李艳涛, 郭松涛, 第十四届中国物联网学术会议(*CWSN’20*), 中国敦煌, 2020/9/18-9/21. (最佳论文候选)
